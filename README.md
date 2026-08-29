@@ -1,1 +1,5 @@
 # PF-LAB02
+NAME   : Ahmad Ali
+ROLL NO: 26P_0002
+SECTION: AI 1A
+INSTRUCTOR : Muhammad Aais Rabbani
